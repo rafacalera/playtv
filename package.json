@@ -1,0 +1,14 @@
+{
+  "name": "playtv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "playtv": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rafael Calera",
+  "homepage": "https://github.com/rafacalera/playtv#readme",
+  "license": "MIT"
+}
